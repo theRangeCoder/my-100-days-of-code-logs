@@ -3,3 +3,4 @@ This repository contains my activities and thoughts on each day of the #100DaysO
 
 To view them, please visit the following links:<br/>
 * [Round 1](R1.md)
+* [Round 2](R2.md)
